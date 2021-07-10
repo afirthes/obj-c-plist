@@ -1,11 +1,9 @@
 //
-//  Model.h
-//  PlistDemo
+//  main.m
+//  obj-c-plist
 //
-//  Created by Developer on 12/19/13.
-//  Copyright (c) 2013 EDUMobile. All rights reserved.
+//  Created by sehio on 10.07.2021.
 //
-
 #import <Foundation/Foundation.h>
 
 @interface Model : NSObject
